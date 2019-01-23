@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0011110111432"
+    },
+    {
+      "id": 2,
+      "name": "PB&J",
+      "category": "Sandwich",
+      "ethnicity": "American",
+      "barcode": "0691355890455"
+    },
+    {
+      "id": 3,
+      "name": "Hamburger",
+      "category": "Sandwich",
+      "ethnicity": "American",
+      "barcode": "0082988000166"
+    },
+    {
+      "name": "Cereal",
+      "category": "Breakfast",
+      "ethnicity": "American",
+      "barcode": "3159470000113",
+      "id": 5
+    }
+  ]
+}
